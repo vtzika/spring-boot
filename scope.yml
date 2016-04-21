@@ -1,7 +1,3 @@
-customer: opensource
-system: spring-boot
-project: M0000-0000
-model: 2015
 source_dir: ./
 exclude: 
   - .*/spring-boot-samples/.*
@@ -10,7 +6,6 @@ exclude:
   - .*/test-samples/.*
 component_depth: 1
 languages:
-  - batch
   - css
   - groovy
   - html
